@@ -1,1 +1,2 @@
-# curso-JS
+# curso-js
+exercicios javascript :D
